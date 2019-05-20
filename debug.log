@@ -1,0 +1,12 @@
+2019-05-20 19:49:01,072 [        EmployeeDAO.java:main:50] - Modification Employee ID: 1100
+2019-05-20 19:49:01,072 [        EmployeeDAO.java:main:51] - Modidfication Date:2019-05-20
+2019-05-20 19:49:01,072 [        EmployeeDAO.java:main:52] - Modification Details are change in Designation and i.e : SS
+2019-05-20 19:49:01,072 [        EmployeeDAO.java:main:53] - ========================================================
+2019-05-20 22:01:29,431 [        EmployeeDAO.java:main:50] - Modification Employee ID: 2000
+2019-05-20 22:01:29,462 [        EmployeeDAO.java:main:51] - Modidfication Date:2019-05-20
+2019-05-20 22:01:29,462 [        EmployeeDAO.java:main:52] - Modification Details are change in Designation and i.e : SSE
+2019-05-20 22:01:29,493 [        EmployeeDAO.java:main:53] - ========================================================
+2019-05-20 22:02:15,935 [        EmployeeDAO.java:main:76] - Modification for Employee and ID is: 2000
+2019-05-20 22:02:15,935 [        EmployeeDAO.java:main:77] - Modidfication Date: 2019-05-20
+2019-05-20 22:02:15,935 [        EmployeeDAO.java:main:78] - Modification Details are change in Basic Salary:50000
+2019-05-20 22:02:15,935 [        EmployeeDAO.java:main:79] - ========================================================
